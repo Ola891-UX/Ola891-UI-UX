@@ -15,7 +15,11 @@ The goal of these prototypes is to *explore smooth UI motion, improve user exper
 
 ✅ Preview  
 Videos and design files will be added here for reference.
+
 https://youtube.com/shorts/_eOXuDleWyc?si=V4x5K0UvgNigpQl9
+
 https://youtube.com/shorts/l1ltuxr6Rn0?si=7euaUYVhgWKsyIup
+
 https://youtube.com/shorts/BheAOB6R44Y?si=eSsfc5HG1AZSSWBq
+
 https://youtube.com/shorts/dmPRPtJMyEE?si=5PcvV5mGq72kSgnY
