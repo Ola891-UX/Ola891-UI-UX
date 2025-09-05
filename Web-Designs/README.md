@@ -14,6 +14,9 @@ To design *modern, responsive, and engaging web interfaces* that balance aesthet
 
 🔗 Previews
 
+![image](https://github.com/user-attachments/assets/89a44d4f-27e1-4b8d-a82e-be598e068641)
+
+
 <img width="6048" height="3928" alt="Kep practice 2" src="https://github.com/user-attachments/assets/817052fc-4c70-4b77-9c82-5a896b0fab39" />
 
 
