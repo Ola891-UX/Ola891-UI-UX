@@ -11,10 +11,12 @@ Purpose
 	•	Practice different design styles and layouts
 	•	Experiment with colors, typography, and user flows
 	•	Track progress and showcase my growth
- ![image](https://github.com/user-attachments/assets/93cc5396-a5da-4fcf-879b-52bad27d1355)
+![image](https://github.com/user-attachments/assets/d25ef263-72eb-437c-b725-dc26d0fae736)
+
 ![image](https://github.com/user-attachments/assets/846f51a0-99fd-437c-b7a7-7bb53781b03a)
 ![image](https://github.com/user-attachments/assets/8ea9ab3e-9566-40f1-924f-5225e3ba36c5)
-![image](https://github.com/user-attachments/assets/34476e98-63b4-4c41-9102-7cdc12d7efe3)
+![image](https://github.com/user-attachments/assets/98a9228b-9a57-4320-bb05-cc40d7e1f6c2)
+
 ![image](https://github.com/user-attachments/assets/27d26ac4-f16e-4fbd-9e4f-a7129001279f)
 
 Notes
