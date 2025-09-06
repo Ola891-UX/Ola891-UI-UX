@@ -11,3 +11,6 @@ To explore *modern UI trends* and create visually appealing designs using *Glass
 
 <img width="1512" height="982" alt="Glassmorphism" src="https://github.com/user-attachments/assets/142d401b-1570-4264-a051-e40a23d72be5" />
 
+
+Designed this (06 Sept, 2025)
+![image](https://github.com/user-attachments/assets/3b260b31-9b77-4aba-8860-7280c5bac0e0)
