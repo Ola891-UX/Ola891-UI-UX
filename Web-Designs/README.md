@@ -21,3 +21,6 @@ To design *modern, responsive, and engaging web interfaces* that balance aesthet
 
 
 <img width="4536" height="2946" alt="Trends" src="https://github.com/user-attachments/assets/09581e24-4847-4e05-b0ef-856d2208da95" />
+
+Designed this (07 Sept, 2025) 
+![image](https://github.com/user-attachments/assets/a840c795-094c-406e-9bcb-5f8339c9062c)
