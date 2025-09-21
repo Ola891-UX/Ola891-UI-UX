@@ -16,6 +16,12 @@ The goal of these prototypes is to *explore smooth UI motion, improve user exper
 ✅ Preview  
 Videos and design files will be added here for reference.
 
+Smooth 3D Animation effect 
+https://youtu.be/prT_7WDQECY?feature=shared
+
+A Stylish text animation
+https://youtu.be/SylAGN6KJoc?feature=shared
+
 https://youtube.com/shorts/_eOXuDleWyc?si=V4x5K0UvgNigpQl9
 
 https://youtube.com/shorts/l1ltuxr6Rn0?si=7euaUYVhgWKsyIup
