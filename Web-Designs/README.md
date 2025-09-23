@@ -14,6 +14,9 @@ To design *modern, responsive, and engaging web interfaces* that balance aesthet
 
 🔗 Previews
 
+<img width="2160" height="1973" alt="image" src="https://github.com/user-attachments/assets/4e61474f-0911-4c3f-adbe-49b4638d4f80" />
+
+
 ![image](https://github.com/user-attachments/assets/89a44d4f-27e1-4b8d-a82e-be598e068641)
 
 
