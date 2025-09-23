@@ -15,7 +15,7 @@ To explore *modern UI trends* and create visually appealing designs using *Glass
 Designed this (06 Sept, 2025)
 ![image](https://github.com/user-attachments/assets/3b260b31-9b77-4aba-8860-7280c5bac0e0)
 
-Desighed this (23rd Sept, 2025)
+Designed this (23rd Sept, 2025)
 <img width="2160" height="1973" alt="image" src="https://github.com/user-attachments/assets/787ec8f4-b6dc-4333-a7c1-289984679cdf" />
 
  
