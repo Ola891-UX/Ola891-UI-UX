@@ -13,6 +13,9 @@ Purpose
 	•	Track progress and showcase my growth
 ![image](https://github.com/user-attachments/assets/d25ef263-72eb-437c-b725-dc26d0fae736)
 
+<img width="2160" height="1340" alt="image" src="https://github.com/user-attachments/assets/476d8e9c-e7e3-4b35-9601-3c8aacea47dd" />
+
+
 <img width="2160" height="1973" alt="image" src="https://github.com/user-attachments/assets/f13d1dd1-192b-4c7b-9c74-96c3e9aaf5e3" />
 
 
