@@ -7,6 +7,8 @@ What’s Inside
 
 Preview 🔗
 
+<img width="2160" height="1340" alt="image" src="https://github.com/user-attachments/assets/d1c9513a-7575-4cbd-aadc-1bf68fc1b1f9" />
+
 Designed this on (27 Sept, 2025)
 <img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/d01012e3-f119-456a-954b-6503fae80061" />
 
