@@ -7,5 +7,14 @@ What’s Inside
 
 Preview 🔗
 
-Designed this on (6 Sept, 2025)
+Designed this on (27 Sept, 2025)
+<img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/d01012e3-f119-456a-954b-6503fae80061" />
+
+Designed this on (13 Sept, 2025)
+<img width="1080" height="607" alt="image" src="https://github.com/user-attachments/assets/a0332fcd-e759-4f9e-b571-bcd44ed9c02e" />
+
+Designed these on (06 Sept, 2025)
+![image](https://github.com/user-attachments/assets/661e7e74-a8c8-41b9-9651-750f0e0572f8)
+![image](https://github.com/user-attachments/assets/bf91ad0a-a443-49ec-a373-4c004c4be820)
+
 
