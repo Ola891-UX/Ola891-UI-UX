@@ -14,6 +14,8 @@ To design *modern, responsive, and engaging web interfaces* that balance aesthet
 
 🔗 Previews
 
+Designed this (27th Sept 2025)
+<img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/c8e9b66f-0b25-4b62-bb60-7a998d040600" />
 
 Designed this (26th Sept 2025)
 <img width="2160" height="1340" alt="image" src="https://github.com/user-attachments/assets/4b434d58-783c-4145-b7ff-cf04222b6bff" />
