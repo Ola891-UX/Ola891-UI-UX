@@ -13,6 +13,11 @@ This folder contains *website designs and landing page concepts*, including expe
 To design *modern, responsive, and engaging web interfaces* that balance aesthetics and usability.  
 
 🔗 Previews
+Designed this )30th Sept 2025)
+<img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/f635c11a-edf8-4890-b34e-64db3fac506e" />
+
+Watch the animation below;
+https://youtu.be/kJa_i9ZGWPw?si=PvGXReViDC6bofcB
 
 Designed this (27th Sept 2025)
 <img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/c8e9b66f-0b25-4b62-bb60-7a998d040600" />
