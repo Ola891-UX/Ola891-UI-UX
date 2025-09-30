@@ -11,7 +11,8 @@ Preview 🔗
 
 Designed this on (30 Sept,2025)
 <img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/868ddec5-5fe4-4166-a99a-20cc2f2a1311" />
-
+Watch the animation below:
+https://youtu.be/kJa_i9ZGWPw?si=PvGXReViDC6bofcB
 
 Designed this on (27 Sept, 2025)
 <img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/d01012e3-f119-456a-954b-6503fae80061" />
