@@ -19,6 +19,11 @@ To create *clean, user-friendly, and visually appealing app interfaces* while pr
 
 <img width="1200" height="1200" alt="Crypto App" src="https://github.com/user-attachments/assets/dd9813c7-8632-4f08-8dbc-b354e25166d3" />
 
+
+Designed this today (October 8, 2025)
+<img width="563" height="1218" alt="image" src="https://github.com/user-attachments/assets/bbd69c21-f42d-4365-ac7a-8db3a74b1443" />
+
+
 <img width="4000" height="3000" alt="Money app mockup" src="https://github.com/user-attachments/assets/d400ba31-d155-49f6-949f-52ffc562ce4e" />
 
 <img width="390" height="844" alt="Luno" src="https://github.com/user-attachments/assets/c0c6bba4-a7f6-4d9c-ab0d-429745edc50b" />
