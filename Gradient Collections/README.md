@@ -14,6 +14,12 @@ Designed this on (30 Sept,2025)
 Watch the animation below:
 https://youtu.be/kJa_i9ZGWPw?si=PvGXReViDC6bofcB
 
+
+Designed this (10 October, 2025)
+Cubic Gradient.
+<img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/d5ce303f-2045-43b3-8129-f06c32709ac2" />
+
+
 Designed this on (27 Sept, 2025)
 <img width="2160" height="1536" alt="image" src="https://github.com/user-attachments/assets/d01012e3-f119-456a-954b-6503fae80061" />
 
