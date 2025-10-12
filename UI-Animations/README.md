@@ -19,6 +19,10 @@ Videos and design files will be added here for reference.
 Smooth 3D Animation effect 
 https://youtu.be/prT_7WDQECY?feature=shared
 
+
+Mobile App Prototyping Video enhanced with smart animations. 
+https://youtu.be/qTtLnhbt8o8?si=86ncOrMqn8M9pRez
+
 A Stylish text animation
 https://youtu.be/SylAGN6KJoc?feature=shared
 
